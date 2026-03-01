@@ -6,7 +6,7 @@ class Solution {
         Map<Integer, Boolean> exploredMap = new HashMap<>();
 
         for (int num : nums) {
-            exploredMap.put(num, false);   // FIX: false not Boolean.False
+            exploredMap.put(num, false);   
         }
 
         for (int num : nums) {
