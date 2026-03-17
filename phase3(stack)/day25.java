@@ -1,34 +1,55 @@
-
-import java.util.Stack;
-
+//better approach
 class Solution {
-   public ListNode reverseList(ListNode head) {
-       if (head == null) return null;
+    public ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode current = head;
+        
+        while (current != null) {
+            ListNode nextTemp = current.next; // Store next node
+            current.next = prev;              // Reverse the link
+            prev = current;                   // Move prev forward
+            current = nextTemp;               // Move current forward
+        }
+        
+        return prev;
+    }
+}
 
-       Stack<ListNode> stack = new Stack<>();
-       ListNode current = head;
+
+
+
+
+
+// import java.util.Stack;
+
+// class Solution {
+//    public ListNode reverseList(ListNode head) {
+//        if (head == null) return null;
+
+//        Stack<ListNode> stack = new Stack<>();
+//        ListNode current = head;
        
-       // Push all nodes onto the stack
-       while (current != null) {
-           stack.push(current);
-           current = current.next;
-       }
+//        // Push all nodes onto the stack
+//        while (current != null) {
+//            stack.push(current);
+//            current = current.next;
+//        }
        
-       // Pop the first item to be the new head
-       ListNode newHead = stack.pop();
-       current = newHead;
+//        // Pop the first item to be the new head
+//        ListNode newHead = stack.pop();
+//        current = newHead;
        
-       // Pop the rest of the items to build the reversed list
-       while (!stack.isEmpty()) {
-           current.next = stack.pop();
-           current = current.next;
-       }
+//        // Pop the rest of the items to build the reversed list
+//        while (!stack.isEmpty()) {
+//            current.next = stack.pop();
+//            current = current.next;
+//        }
        
-       // Important: sever the last node's original next pointer to prevent cycles
-       current.next = null; 
+//        // Important: sever the last node's original next pointer to prevent cycles
+//        current.next = null; 
        
-       return newHead;
-   }
-} 
+//        return newHead;
+//    }
+// } 
     
 
