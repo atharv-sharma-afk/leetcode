@@ -4,13 +4,13 @@ import java.util.Set;
 class Solution {
     public boolean isHappy(int n) {
         Set<Integer> seen = new HashSet<>();
-        
+
         // Keep going until n becomes 1 or we hit a number we've seen before
         while (n != 1 && !seen.contains(n)) {
             seen.add(n);
             n = getNext(n);
         }
-        
+
         return n == 1;
     }
 
@@ -25,3 +25,4 @@ class Solution {
         return totalSum;
     }
 }
+// changed
