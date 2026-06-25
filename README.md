@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/atharv-sharma-afk/leetcode/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
