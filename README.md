@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -23,4 +24,16 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
