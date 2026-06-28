@@ -1,27 +1,23 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n; // Cast to long to handle Integer.MIN_VALUE safely
+        // Fix 3: Cast to long to prevent Integer.MIN_VALUE overflow
+        long N = n; 
+        
+        // Fix 1: Check if the exponent N is negative (NOT x)
         if (N < 0) {
-            return 1.0 / fastPow(x, -N);
-        }
-        return fastPow(x, N);
-    }
-    
-    private double fastPow(double x, long n) {
-        // Base case
-        if (n == 0) {
-            return 1.0;
+            N = N * -1;
+            x = 1 / x;
         }
         
-        // Recursive call for half the power
-        double half = fastPow(x, n / 2);
-        
-        // If power is even: x^n = (x^(n/2)) * (x^(n/2))
-        if (n % 2 == 0) {
-            return half * half;
-        } else {
-            // If power is odd: x^n = x * (x^(n/2)) * (x^(n/2))
-            return half * half * x;
+        double result = 1;
+        // Fix 2: Using the safe long N for the loop condition
+        while (N != 0) {
+            if (N % 2 != 0) {
+                result = result * x;
+            }
+            x = x * x;
+            N = N / 2;
         }
+        return result;
     }
 }
