@@ -27,12 +27,14 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/atharv-sharma-afk/leetcode/tree/master/0050-powx-n) |
 | [0492-construct-the-rectangle](https://github.com/atharv-sharma-afk/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/atharv-sharma-afk/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/atharv-sharma-afk/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
