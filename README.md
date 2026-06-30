@@ -9,16 +9,19 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharv-sharma-afk/leetcode/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
