@@ -11,6 +11,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharv-sharma-afk/leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/atharv-sharma-afk/leetcode/tree/master/0078-subsets) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -94,4 +95,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/atharv-sharma-afk/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/atharv-sharma-afk/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
