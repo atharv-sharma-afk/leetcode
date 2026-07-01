@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/atharv-sharma-afk/leetcode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -34,6 +35,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharv-sharma-afk/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/atharv-sharma-afk/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/atharv-sharma-afk/leetcode/tree/master/0070-climbing-stairs) |
 | [0492-construct-the-rectangle](https://github.com/atharv-sharma-afk/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/atharv-sharma-afk/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -46,6 +48,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/atharv-sharma-afk/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
