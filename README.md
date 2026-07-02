@@ -94,6 +94,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/atharv-sharma-afk/leetcode/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
