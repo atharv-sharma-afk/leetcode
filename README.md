@@ -107,9 +107,11 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/atharv-sharma-afk/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/atharv-sharma-afk/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
