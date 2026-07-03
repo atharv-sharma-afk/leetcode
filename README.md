@@ -5,6 +5,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/atharv-sharma-afk/leetcode/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/atharv-sharma-afk/leetcode/tree/master/0196-delete-duplicate-emails) |
 ## Array
 |  |
