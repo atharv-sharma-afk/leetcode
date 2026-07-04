@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharv-sharma-afk/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/atharv-sharma-afk/leetcode/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharv-sharma-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
@@ -121,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharv-sharma-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -133,5 +135,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharv-sharma-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/atharv-sharma-afk/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
