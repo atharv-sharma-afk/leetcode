@@ -112,12 +112,14 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/atharv-sharma-afk/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/atharv-sharma-afk/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/atharv-sharma-afk/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/atharv-sharma-afk/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/atharv-sharma-afk/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/atharv-sharma-afk/leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
