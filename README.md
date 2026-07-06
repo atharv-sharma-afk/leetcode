@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharv-sharma-afk/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/atharv-sharma-afk/leetcode/tree/master/0078-subsets) |
@@ -20,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/atharv-sharma-afk/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/atharv-sharma-afk/leetcode/tree/master/0392-is-subsequence) |
@@ -79,6 +81,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
