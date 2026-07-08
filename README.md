@@ -41,6 +41,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/atharv-sharma-afk/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0290-word-pattern](https://github.com/atharv-sharma-afk/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/atharv-sharma-afk/leetcode/tree/master/0392-is-subsequence) |
+| [2785-sort-vowels-in-a-string](https://github.com/atharv-sharma-afk/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
