@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharv-sharma-afk/leetcode/tree/master/0057-insert-interval) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharv-sharma-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0209-minimum-size-subarray-sum) |
