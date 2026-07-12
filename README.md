@@ -25,6 +25,7 @@
 | [0518-coin-change-ii](https://github.com/atharv-sharma-afk/leetcode/tree/master/0518-coin-change-ii) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1331-rank-transform-of-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/atharv-sharma-afk/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
 |  |
@@ -135,6 +137,7 @@
 | [0205-isomorphic-strings](https://github.com/atharv-sharma-afk/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/atharv-sharma-afk/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
+| [1331-rank-transform-of-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
