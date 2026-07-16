@@ -15,8 +15,9 @@ class Solution {
             farthest= Math.max(farthest,nums[i]+i);
 
             if(i==currentEnd){
-                jump++;
                 currentEnd=farthest;
+                jump++;
+                
 
                 if (currentEnd >= nums.length - 1) {
                     break;
