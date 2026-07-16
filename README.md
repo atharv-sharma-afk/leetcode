@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/atharv-sharma-afk/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/atharv-sharma-afk/leetcode/tree/master/0057-insert-interval) |
@@ -30,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/atharv-sharma-afk/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/atharv-sharma-afk/leetcode/tree/master/0070-climbing-stairs) |
@@ -44,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/atharv-sharma-afk/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharv-sharma-afk/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
