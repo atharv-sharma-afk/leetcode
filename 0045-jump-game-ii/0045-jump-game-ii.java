@@ -19,9 +19,9 @@ class Solution {
                 jump++;
                 
 
-                if (currentEnd >= nums.length - 1) {
-                    break;
-                }
+                // if (currentEnd >= nums.length - 1) {
+                //     break;
+                // }
             }
         }return jump;
     }
