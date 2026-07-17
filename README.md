@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/atharv-sharma-afk/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/atharv-sharma-afk/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atharv-sharma-afk/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/atharv-sharma-afk/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharv-sharma-afk/leetcode/tree/master/0055-jump-game) |
@@ -176,6 +178,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/atharv-sharma-afk/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/atharv-sharma-afk/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/atharv-sharma-afk/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharv-sharma-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -194,4 +197,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/atharv-sharma-afk/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/atharv-sharma-afk/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/atharv-sharma-afk/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
