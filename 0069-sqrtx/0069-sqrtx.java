@@ -7,6 +7,6 @@ class Solution {
             if(i*i>x){
                 return(int) (i-1);
             }
-        }return 1;
+        }return 0;
     }
 }
