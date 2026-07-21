@@ -69,6 +69,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharv-sharma-afk/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/atharv-sharma-afk/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/atharv-sharma-afk/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/atharv-sharma-afk/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/atharv-sharma-afk/leetcode/tree/master/0492-construct-the-rectangle) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/atharv-sharma-afk/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharv-sharma-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0209-minimum-size-subarray-sum) |
