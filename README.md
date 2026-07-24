@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharv-sharma-afk/leetcode/tree/master/0042-trapping-rain-water) |
@@ -61,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -187,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharv-sharma-afk/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/atharv-sharma-afk/leetcode/tree/master/0125-valid-palindrome) |
