@@ -25,6 +25,7 @@
 | [0135-candy](https://github.com/atharv-sharma-afk/leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharv-sharma-afk/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/atharv-sharma-afk/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atharv-sharma-afk/leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -141,6 +144,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 ## Backtracking
@@ -155,6 +159,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/atharv-sharma-afk/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/atharv-sharma-afk/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/atharv-sharma-afk/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/atharv-sharma-afk/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
