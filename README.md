@@ -36,6 +36,7 @@
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/atharv-sharma-afk/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/atharv-sharma-afk/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
 |  |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atharv-sharma-afk/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
