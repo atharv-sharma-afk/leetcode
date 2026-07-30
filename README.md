@@ -62,6 +62,7 @@
 | [0134-gas-station](https://github.com/atharv-sharma-afk/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/atharv-sharma-afk/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/atharv-sharma-afk/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharv-sharma-afk/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0492-construct-the-rectangle](https://github.com/atharv-sharma-afk/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/atharv-sharma-afk/leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/atharv-sharma-afk/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharv-sharma-afk/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/atharv-sharma-afk/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/atharv-sharma-afk/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -179,6 +181,7 @@
 | [0383-ransom-note](https://github.com/atharv-sharma-afk/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/atharv-sharma-afk/leetcode/tree/master/0392-is-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/atharv-sharma-afk/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharv-sharma-afk/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
