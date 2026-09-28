@@ -8,6 +8,7 @@
 | [0175-combine-two-tables](https://github.com/atharv-sharma-afk/leetcode/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/atharv-sharma-afk/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1075-project-employees-i](https://github.com/atharv-sharma-afk/leetcode/tree/master/1075-project-employees-i) |
+| [1251-average-selling-price](https://github.com/atharv-sharma-afk/leetcode/tree/master/1251-average-selling-price) |
 ## Array
 |  |
 | ------- |
